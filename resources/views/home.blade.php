@@ -15,6 +15,7 @@
                     @endif
 
                     You are logged in!
+                    <a href="{{ url('/notes')}}">Ver notas</a>
                 </div>
             </div>
         </div>
